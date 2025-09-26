@@ -1,0 +1,21 @@
+#ifndef GAMESTATE_HPP
+#define GAMESTATE_HPP
+
+enum GameState { 
+	START_SCREEN, 
+	TRANSITION, 
+	MAIN_MENU, 
+	LOADING_SCREEN,
+	STORY_MODE,
+	PLAY_GAME, 
+	ARENA2,
+	LEVEL_MENU, 
+	VICTORY,
+	OPTIONS,
+	ABOUT,
+	EXIT
+};
+
+extern GameState currentState;
+
+#endif
