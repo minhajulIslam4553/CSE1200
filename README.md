@@ -81,7 +81,7 @@ Open the project in Visual Studio 2013
 
 
 
-###<img width="1919" height="1046" alt="Screenshot 2025-09-26 201240" src="https://github.com/user-attachments/assets/57b4195d-9f8e-4da8-91ef-adb93ba1934b" />
+<img width="1919" height="1046" alt="Screenshot 2025-09-26 201240" src="https://github.com/user-attachments/assets/57b4195d-9f8e-4da8-91ef-adb93ba1934b" />
 
 
 ## Youtube Link
